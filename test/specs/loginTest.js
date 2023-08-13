@@ -25,7 +25,10 @@ describe('Ecommerce Application', async () => {
         await expect(browser).toHaveTitle("ProtoCommerce")
         await expect(browser).toHaveUrl("https://rahulshettyacademy.com/angularpractice/shop")
         await $("//a[text()='ProtoCommerce Home']").waitForExist()
-        let a= 20
+
+       let a =10
+
     })
 
 })  
+ // huytfxdzszdxdzsdssts
