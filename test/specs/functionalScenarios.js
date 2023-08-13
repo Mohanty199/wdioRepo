@@ -8,6 +8,7 @@ describe("Functional Suite", async () => {
         await $("=Top").click()
         //await browser.pause(3000)
         // await $("=Top").click()
+        // huytfxdzszdxdzsdssts
        
 
     })
